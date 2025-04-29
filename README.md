@@ -27,6 +27,7 @@ int main() {
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/2bef6a2c-9558-4d2f-b44a-90bcf477b313)
 
 
 
